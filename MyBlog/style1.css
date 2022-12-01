@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hitman{
+    width: 100% ;
+    position: fixed;
+}
